@@ -16,6 +16,10 @@ figure.effect-selena img {
 	transform-origin: 50% 50%;
 }
 
+.container{
+	max-width: 2040px;
+}
+
 figure.effect-selena:hover img {
 	-webkit-transform: scale3d(0.95,0.95,1);
 	transform: scale3d(0.95,0.95,1);
